@@ -1,11 +1,11 @@
-baseURL: "https://runbooks.prometheus-operator.dev"
+baseURL: "https://defenestration.github.io/runbooks"
 languageCode: "en-us"
 title: "kube-prometheus runbooks"
 
 theme: book
 
 params:
-  BookRepo: "https://github.com/prometheus-operator/runbooks"
+  BookRepo: "https://github.com/defenestration/runbooks"
   BookEditPath: "edit/main"
   BookSearch: true
   BookSection: "runbooks"
